@@ -1,4 +1,4 @@
-# IF U NEED SOMETHING ADD ME ON real_sloupsy
+# IF U NEED SOMETHING ADD ME ON DISCORD real_sloupsy
 
 # OCR Curse Word Filter with Discord Notifications
 
