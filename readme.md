@@ -1,3 +1,5 @@
+# IF U NEED SOMETHING ADD ME ON real_sloupsy
+
 # OCR Curse Word Filter with Discord Notifications
 
 This project uses Optical Character Recognition (OCR) to detect curse words in screenshots. When a curse word is detected, it sends a notification to a Discord channel through a webhook, highlighting the detected word. The script can be customized with a menu interface to enable/disable notifications and start the filter.
